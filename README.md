@@ -33,32 +33,17 @@ Passionate about transforming raw data into scalable systems, meaningful insight
 ## 👨‍💻 Programming & Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 Data Analysis, BI & Visualization
+## 📊 Data Analysis & Machine Learning
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48"/>
-<img src="https://cdn.simpleicons.org/microsoftpowerbi/F2C811" width="48"/>
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="48"/>
-
-<img src="https://cdn.simpleicons.org/pandas/150458" width="48"/>
-<img src="https://cdn.simpleicons.org/numpy/013243" width="48"/>
-
-<img src="https://cdn.simpleicons.org/matplotlib/11557c" width="48"/>
-<img src="https://cdn.simpleicons.org/seaborn/2E4A62" width="48"/>
-<img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48"/>
-</p>
-
----
-
-## 🤖 Machine Learning
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="48"/>
 </p>
 
 ---
@@ -66,9 +51,9 @@ Passionate about transforming raw data into scalable systems, meaningful insight
 ## ⚙️ Data Engineering & Big Data
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="48"/>
-<img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" width="48"/>
-<img src="https://skillicons.dev/icons?i=azure" />
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="48"/>
+  <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" width="48"/>
+  <img src="https://skillicons.dev/icons?i=azure" />
 </p>
 
 ---
@@ -98,8 +83,6 @@ Predictive analytics and intelligent models using Python.
 - dbt  
 - Hadoop Ecosystem  
 - Azure Data Services  
-- Power BI Advanced Analytics  
-- Tableau Dashboards  
 - Machine Learning Pipelines  
 - Advanced SQL Optimization  
 
