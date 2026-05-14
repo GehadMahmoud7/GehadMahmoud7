@@ -1,5 +1,3 @@
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 # Hey 👋, I'm Gehad Mahmoud
 
 ## 🚀 Data Engineer | Data Analyst | Aspiring Data Scientist
@@ -76,4 +74,39 @@ Passionate about transforming raw data into scalable systems, meaningful insight
 ### 📈 Data Warehouse Project
 Building scalable warehouse architecture using Fact & Dimension modeling.
 
-### ⚙️
+### ⚙️ ETL Pipeline Project
+Creating automated ETL workflows using Python & SQL.
+
+### 🛢️ Oil Market Analytics
+Historical crude oil scraping and market intelligence analysis.
+
+### 📊 Data Cleaning & Transformation
+Advanced SQL data cleaning and preprocessing workflows.
+
+### 🤖 Machine Learning Projects
+Predictive analytics and intelligent models using Python.
+
+---
+
+# 📚 Currently Learning
+
+- Apache Airflow
+- dbt
+- Hadoop Ecosystem
+- Azure Data Services
+- Machine Learning Pipelines
+- Advanced SQL Optimization
+
+---
+
+# 🌍 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- GitHub: https://github.com/YOUR_USERNAME
+- Kaggle: https://kaggle.com/YOUR_USERNAME
+
+---
+
+# ✨ Quote
+
+> “Data is not just numbers… it’s hidden stories waiting to be discovered.”
