@@ -38,7 +38,7 @@ Passionate about transforming raw data into scalable systems, meaningful insight
 
 ---
 
-## 📊 Data Analysis & Machine Learning
+##  Machine Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" />
@@ -60,16 +60,16 @@ Passionate about transforming raw data into scalable systems, meaningful insight
 ## 📊 Data Analysis, BI & Visualization
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=excel" />
-  <img src="https://img.icons8.com/color/48/power-bi.png"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="48"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="48"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-  <img src="https://cdn.simpleicons.org/matplotlib/11557c" width="48"/>
-  <img src="https://cdn.simpleicons.org/seaborn/2E4A62" width="48"/>
-  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge"/>
 </p>
 ---
 
