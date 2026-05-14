@@ -1,4 +1,4 @@
-## Hey 👋, I'm Gehad Mahmoud!
+# Hey 👋, I'm Gehad Mahmoud!
 
 <a href='https://www.linkedin.com/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://github.com/'><img align='left' alt="github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height='18px'/></a>
@@ -7,94 +7,117 @@
 <br/>
 <br/>
 
-I’m a Data Enthusiast focused on becoming a professional **Data Engineer, Data Analyst, and Data Scientist** 🚀  
-Passionate about transforming raw data into valuable insights and building scalable data solutions that solve real-world problems.  
+# 🚀 Data Engineer | Data Analyst | Aspiring Data Scientist
 
-I enjoy working with databases, data pipelines, analytics, and machine learning while continuously exploring modern technologies in the data field 💻📊  
+Passionate about transforming raw data into scalable systems, meaningful insights, and intelligent solutions.  
+Currently focused on building strong foundations in **Data Engineering, Analytics, Machine Learning, and Big Data Technologies**.
+
+I enjoy working with databases, ETL pipelines, data warehouses, dashboards, and analytics while continuously learning modern cloud and big data tools 💻📊
 
 <br/>
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-### 🧐 More About Me:
+## 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on Data Engineering & Data Analytics projects
-- 🌱 &nbsp; I’m currently learning **Data Warehousing, ETL Pipelines, Machine Learning, and Cloud Technologies**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/)
-- 💬 &nbsp; Ask me about anything related to **SQL, Python, Data Analysis, Web Scraping, or Data Engineering**
-- 📊 &nbsp; I enjoy transforming messy data into meaningful dashboards and insights
-- 📚 &nbsp; Currently exploring the world of **AI, Big Data, and Predictive Analytics**
-- ⚡ &nbsp; Fun fact: I believe data tells stories that numbers alone can’t explain
+- 🔭 Currently building Data Engineering & Analytics projects
+- 🌱 Learning advanced concepts in:
+  - Data Warehousing
+  - ETL & ELT Pipelines
+  - Machine Learning
+  - Big Data Systems
+  - Cloud Data Platforms
 
-<br>
-
-### 🔨 Languages and Tools:
-
-<a href="https://www.python.org" target="_blank">
-<img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img align="left" alt="MySQL" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-<img align="left" alt="SQL Server" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img align="left" alt="Pandas" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-<img align="left" alt="NumPy" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img align="left" alt="Scikit Learn" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank">
-<img align="left" alt="TensorFlow" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-</a>
-
-<a href="https://azure.microsoft.com/" target="_blank">
-<img align="left" alt="Azure" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img align="left" alt="GitHub" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</a>
-
-<br>
-<br>
-<br>
-
-### 📊 Github Stats
-
-<a href='https://github.com/'>
-  
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-</a>
+- 👨🏻‍💻 Working with real-world datasets using SQL & Python
+- 📊 Interested in analytics, business intelligence, and predictive modeling
+- ⚙️ Exploring scalable data architectures and workflow orchestration
+- 💬 Ask me about SQL, Python, Data Cleaning, Web Scraping, and ETL
+- 📚 Always learning something new in the data world
 
 <br>
 
-### 🚀 Featured Projects
+# 🛠️ Languages & Tools
 
-- 📈 Data Warehouse Project  
-- 🛢️ Oil Market Web Scraping & Analytics  
-- 📊 SQL Data Cleaning & Transformation  
-- 🤖 Machine Learning Experiments  
-- ⚙️ ETL & Data Pipeline Projects  
+### 👨‍💻 Programming & Databases
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+</p>
 
 ---
 
-⭐ “Turning raw data into meaningful intelligence.”
+### 📊 Data Analysis & Visualization
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
+</p>
+
+---
+
+### ⚙️ Data Engineering & Big Data
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/apache-airflow-1.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/apache-hadoop.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45"/>
+</p>
+
+<br>
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📈 Data Warehouse Project
+Building scalable warehouse architecture using Fact & Dimension modeling.
+
+### ⚙️ ETL Pipeline Project
+Creating automated ETL workflows with Python & SQL.
+
+### 🛢️ Oil Market Analytics
+Web scraping + market intelligence analysis using historical crude oil data.
+
+### 📊 Data Cleaning & Transformation
+Advanced SQL-based data cleaning and preprocessing workflows.
+
+### 🤖 Machine Learning Projects
+Exploring predictive analytics and intelligent models using Python.
+
+---
+
+# 📚 Currently Learning
+
+- Apache Airflow
+- dbt
+- Hadoop Ecosystem
+- Azure Data Services
+- Machine Learning Pipelines
+- Advanced SQL Optimization
+
+---
+
+# 🌍 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- GitHub: https://github.com/YOUR_USERNAME
+- Kaggle: https://kaggle.com/YOUR_USERNAME
+
+---
+
+# ✨ Quote
+
+> “Data is not just numbers… it’s hidden stories waiting to be discovered.”
