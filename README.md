@@ -52,19 +52,8 @@ Passionate about transforming raw data into scalable systems, meaningful insight
 
 <p align="left">
 <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="48"/>
-<img src="https://cdn.simpleicons.org/dbt/FF694B" width="48"/>
 <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" width="48"/>
 <img src="https://skillicons.dev/icons?i=azure" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
