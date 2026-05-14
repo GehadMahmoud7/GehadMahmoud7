@@ -17,7 +17,7 @@ I enjoy working with databases, ETL pipelines, data warehouses, dashboards, and 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/gehadmahmoud/gehadmahmoud/main/assets/profile.png">
 
 ## 🧐 More About Me:
 
