@@ -60,11 +60,13 @@ Passionate about transforming raw data into scalable systems, meaningful insight
 ## 📊 Data Analysis, BI & Visualization
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48"/>
-  <img src="https://cdn.simpleicons.org/microsoftpowerbi/F2C811" width="48"/>
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="48"/>
+  <img src="https://skillicons.dev/icons?i=excel" />
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png"/>
+
   <img src="https://cdn.simpleicons.org/pandas/150458" width="48"/>
   <img src="https://cdn.simpleicons.org/numpy/013243" width="48"/>
+
   <img src="https://cdn.simpleicons.org/matplotlib/11557c" width="48"/>
   <img src="https://cdn.simpleicons.org/seaborn/2E4A62" width="48"/>
   <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48"/>
