@@ -101,7 +101,7 @@ Predictive analytics and intelligent models using Python.
 
 # 🌍 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/gehad-mahmoud26?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - GitHub: https://github.com/YOUR_USERNAME
 - Kaggle: https://kaggle.com/YOUR_USERNAME
 
